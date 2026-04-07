@@ -46,7 +46,7 @@ A centralized, high-performance web application that provides:
 - ✅ Swagger documentation at `/docs`
 - ✅ Custom error codes for frontend handling
 - ✅ Nginx reverse proxy
-- 
+
 ## Usage
 1. **Deploy**
 2. **Access UI:** Open `http://localhost` to use the web app.
@@ -114,7 +114,7 @@ Before deployment, ensure the following tools are installed on your VM:
 2. **Docker:** [Official Installation Guide](https://docs.docker.com/engine/install/ubuntu/)
 3. **Docker Compose:** (Usually included with Docker Desktop or as a plugin `docker-compose-plugin`)
 
-### 📦 Production Deployment Steps
+### Production Deployment Steps
 
 1. **Clone the Repository:**
    ```bash
